@@ -25,10 +25,10 @@
 - På feltene "Input name of place" og "Input country code" kan man velge å taste inn byen med eller uten country code. Med country code vil det være mer presist. Etter av å ha valgt for seg by og country code kan man få resultat av været og temperaturen ved stedet ved å trykke på "Search" knappen.
 
 Infoen vil gjerne stå som:
-Navn av byen
-Temperatur i celcius
-Vær beskrivelsen
-Min og maks temperatur.
+- Navn av byen
+- Temperatur i celcius
+- Vær beskrivelsen
+- Min og maks temperatur.
 
 ## Features
 - API call
